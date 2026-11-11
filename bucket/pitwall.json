@@ -1,16 +1,16 @@
 {
-    "version": "0.2.7",
+    "version": "0.2.8",
     "description": "Terminal multiplexer for coding agents",
     "homepage": "https://github.com/quanticstudios/pitwall",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/quanticstudios/pitwall/releases/download/v0.2.7/pitwall_windows_amd64.zip",
-            "hash": "77ad7493314589b8f188df3974050610e945f832559b8b6241aeef8a144064d2"
+            "url": "https://github.com/quanticstudios/pitwall/releases/download/v0.2.8/pitwall_windows_amd64.zip",
+            "hash": "58d46dfbd5c68537b01c8445ec55ece50981acccb7b4aed60269fc1056f9239c"
         },
         "arm64": {
-            "url": "https://github.com/quanticstudios/pitwall/releases/download/v0.2.7/pitwall_windows_arm64.zip",
-            "hash": "9142aaa7a70ed192844a49829834ee51b2ea8d399cfe6edd196eb138e4749553"
+            "url": "https://github.com/quanticstudios/pitwall/releases/download/v0.2.8/pitwall_windows_arm64.zip",
+            "hash": "6930671eba1b2c6261e98a1a4c705a95b5a62866119de1ff2e991ebc98cd464a"
         }
     },
     "bin": "pitwall.exe",
